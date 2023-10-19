@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Spaces/SUTD Academics/Concepts/Durkheim/Solidarity/Organic Solidarity/","tags":["created/2023/Oct"]}
 ---
 
-modified:: 2023-10-18, 2302
+modified:: 2023-10-19, 1330
 up:: [[Spaces/SUTD Academics/Concepts/Societal Solidarity\|Societal Solidarity]]
 tags::
 
@@ -39,6 +39,10 @@ Societal Solidarity due to the interdependence of the functions within society.
 - The different roles within a friend group like mum friend, joker, etc.
 
 ## Quotes
+
+### Division of Labour to Interdependence
+
+> "The most notable effect of the division of labour is not that it increases the productivity of the functions that are divided in this way, but that it links them very closely together." (Durkheim, 1893, pg 21)
 
 ### What is Organic Solidarity
 
