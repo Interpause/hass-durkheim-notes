@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Spaces/SUTD Academics/Concepts/Durkheim/Durkheim Quotesheet/","tags":["created/2023/Oct"]}
 ---
 
-modified:: 2023-10-19, 0027
+modified:: 2023-10-19, 1330
 up:: [[Spaces/SUTD Academics/Concepts/Durkheim Theory\|Durkheim Theory]]
 tags::
 
@@ -41,6 +41,8 @@ See [[Spaces/SUTD Academics/Concepts/Durkheim/Social Facts/Restitutive Laws\|Res
 ### Organic Solidarity
 
 See [[Spaces/SUTD Academics/Concepts/Durkheim/Theories/Durkheim's Freedom and Individuality\|Durkheim's Freedom and Individuality]] & [[Spaces/SUTD Academics/Concepts/Durkheim/Solidarity/Organic Solidarity\|Organic Solidarity]].
+
+> "The most notable effect of the division of labour is not that it increases the productivity of the functions that are divided in this way, but that it links them very closely together." (Durkheim, 1893, pg 21)
 
 > "The division of labour itself contributes to this liberating effect. Individual natures become more complex through specialising; by this very fact they are partly shielded against the effects of the collectivity and the influences of heredity, which can scarcely enforce themselves except in simple, general matters." (Durkheim, 1893, pg 335)
 
